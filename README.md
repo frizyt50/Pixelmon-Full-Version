@@ -248,4 +248,4 @@ This repository serves as the official landing page for Pixelmon Reforged. The s
 **Get the most recent version of Pixelmon Reforged today!**
 
 ---
-**Last updated:** 2026-10-25 10:17:03 UTC
+**Last updated:** 2026-10-25 14:38:05 UTC
